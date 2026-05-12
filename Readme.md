@@ -74,7 +74,7 @@ link drive file .wpress: https://drive.google.com/file/d/1ir7xW1HSPavUk92bOz6UE2
 ---
 ## Link online đã deploy
 
-link online: tieutrungkien05.id.vn 
+link online: https://tieutrungkien05.id.vn/
 ---
 ## Link video demo
 
