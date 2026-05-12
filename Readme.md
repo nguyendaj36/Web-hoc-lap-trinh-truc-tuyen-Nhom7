@@ -61,6 +61,8 @@ Plugin sao lưu và di chuyển toàn bộ website WordPress chỉ với vài c�
 ### B3: tải plugin All-in-One WP Migration
 ### B4: dùng plugin All-in-One WP Migration đến nhập file có đuôi .wpress 
 
+link drive file .wpress: https://drive.google.com/file/d/1Wkyd1S0uoKiB3gCkqJJHTLkvNkQ6i-Kt/view?usp=sharing
+
 ---
 ## Hướng dẫn chạy project
 
