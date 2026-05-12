@@ -8,9 +8,9 @@
 
 | STT | Họ và tên | MSSV |
 |---|---|---|
-| 1 | Tiêu Trung Kiên | 23810310129 |
-| 2 | Nguyễn Trọng Đại | 23810310120 |
-| 3 | Nguyễn Tiến Đức Huy | 23810310127 |
+| 1 | Tiêu Trung Kiên | 23810310129 | Hosting, VPS, deploy website. |
+| 2 | Nguyễn Trọng Đại | 23810310120 | Plugin, quản trị Admin, plugin Chat. |
+| 3 | Nguyễn Tiến Đức Huy | 23810310127 | Plugin, tùy chỉnh giao diện, hoàn thành word. |
 
 ---
  
@@ -54,5 +54,33 @@ Plugin tạo nút chat nổi trên website, hỗ trợ kết nối nhanh qua Zal
 Plugin sao lưu và di chuyển toàn bộ website WordPress chỉ với vài cú nhấp chuột. Được dùng để backup dữ liệu và hỗ trợ triển khai dự án giữa các môi trường khác nhau.
  
 ---
+## Hướng dẫn cài đặt 
+
+### B1: cài đặt wordpress
+### B2: đăng nhập tài khoản
+### B3: tải plugin All-in-One WP Migration
+### B4: dùng plugin All-in-One WP Migration đến nhập file có đuôi .wpress 
+
+---
+## Hướng dẫn chạy project
+
+### B1: upload file lên vps
+### B2: khởi động dự án
+### B3: web khởi chạy thành công.
+
+
+---
+## Link online đã deploy
+
+tieutrungkien05.id.vn 
+---
+## Hình ảnh minh họa hệ thống
+
+<img width="1919" height="1082" alt="image" src="https://github.com/user-attachments/assets/7811c43e-d5b4-4625-9607-9bc053ff93c7" />
+<img width="1918" height="1093" alt="image" src="https://github.com/user-attachments/assets/b7fa4950-ebe1-462d-aa14-4dcc55682a63" />
+<img width="1919" height="1092" alt="image" src="https://github.com/user-attachments/assets/2c8781bd-afea-4e99-9019-8af283e723d6" />
+
+---
+
 
 
