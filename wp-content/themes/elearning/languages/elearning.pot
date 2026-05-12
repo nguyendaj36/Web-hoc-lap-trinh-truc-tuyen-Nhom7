@@ -1,0 +1,2116 @@
+# Copyright (C) 2025 Masteriyo
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: eLearning 2.1.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/elearning\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-30T05:02:34+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: elearning\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/class-elearning-utils.php:170
+#: inc/helper/utils.php:103
+#: inc/helper/utils.php:146
+msgid "eLearning"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://masteriyo.com/elearning-lms-theme/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "eLearning is a free WordPress LMS theme powered by Masteriyo LMS. Masteriyo is a revolutionary LMS plugin based on React JS making it not just super fast but also super easy to setup. Masteriyo plugin helps to create and sell online courses with ease. eLearning theme is Gutenberg, Elementor and any other page builder ready making it perfect choice to create a visually appealing professional looking LMS site. eLearning is light weight, SEO optimized, AMP ready, RTL ready, major browsers compatible, fully responsive, translation ready and backed up by our awesome support team. It has tons of customizer options related to header, menu, blog page, single post page, footer, layouts, typography, designs and many more.  It comes with pre-built Elementor and Gutenberg demos that you can import with few clicks via the recommended demo importer plugin. Checkout the live demo at https://demo.masteriyo.com/elearning."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Masteriyo"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://masteriyo.com"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:38
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#. Translators: 1: Panel Title.
+#: functions.php:75
+msgid "Customizing ▶ %s"
+msgstr ""
+
+#: functions.php:76
+msgid "Customizing"
+msgstr ""
+
+#: header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: inc/admin/class-elearning-admin.php:52
+msgid "Processing"
+msgstr ""
+
+#: inc/admin/class-elearning-admin.php:55
+msgid "Install ThemeGrill Demo Importer Plugin"
+msgstr ""
+
+#: inc/admin/class-elearning-admin.php:65
+msgid "Activating"
+msgstr ""
+
+#: inc/admin/class-elearning-admin.php:68
+msgid "Activate ThemeGrill Demo Importer Plugin"
+msgstr ""
+
+#: inc/admin/class-elearning-admin.php:75
+msgid "Redirecting"
+msgstr ""
+
+#: inc/admin/class-elearning-admin.php:78
+msgid "Demo Library"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:27
+#: inc/admin/class-elearning-dashboard.php:28
+msgid "eLearning Options"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:42
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:259
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:47
+msgid "Set Color"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:52
+msgid "Header Options"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:57
+msgid "Blog Options"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:62
+msgid "Footer Options"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:82
+msgid "Theme Info"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:83
+msgid "Demos"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:84
+msgid "Support"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:93
+msgid "Quick customize settings"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:110
+msgid "Starter Demos"
+msgstr ""
+
+#. translators: 1: Theme Name, 2: Demo Link.
+#: inc/admin/class-elearning-dashboard.php:116
+msgid "You do not need to build your site from scratch, %1$s provides a variety of %2$s"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:118
+msgid "Demos."
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:122
+msgid "Import demo site and start editing as your liking."
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:129
+msgid "Review"
+msgstr ""
+
+#. translators: 1: Theme Name, 2: Review Link.
+#: inc/admin/class-elearning-dashboard.php:135
+msgid "Love using %1$s? Help us by leaving a review %2$s"
+msgstr ""
+
+#: inc/admin/class-elearning-dashboard.php:137
+msgid "here &#129066;"
+msgstr ""
+
+#: inc/admin/class-elearning-notice.php:58
+#: inc/admin/class-elearning-notice.php:77
+#: inc/admin/class-elearning-theme-review-notice.php:155
+#: inc/admin/class-elearning-theme-review-notice.php:173
+#: inc/migration/class-elearning-migration.php:1772
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/class-elearning-notice.php:62
+#: inc/admin/class-elearning-notice.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/admin/class-elearning-theme-review-notice.php:78
+msgid "elearning Logo"
+msgstr ""
+
+#. translators: %s: Smile icon
+#: inc/admin/class-elearning-theme-review-notice.php:86
+msgid "The above word is just to draw your attention. %s"
+msgstr ""
+
+#. translators: %1$s: Opening of strong tag, %2$s: Theme's Name, %3$s: Closing of strong tag
+#: inc/admin/class-elearning-theme-review-notice.php:95
+msgid "Hope you are having a nice experience with %1$s %2$s %3$s theme. Please provide this theme a nice review."
+msgstr ""
+
+#: inc/admin/class-elearning-theme-review-notice.php:103
+msgid "What benefit would you have?"
+msgstr ""
+
+#. translators: %s: Smiley icon
+#: inc/admin/class-elearning-theme-review-notice.php:109
+msgid "Basically, it would encourage us to release updates regularly with new features & bug fixes so that you can keep on using the theme without any issues and also to provide free support like we have been doing. %s"
+msgstr ""
+
+#: inc/admin/class-elearning-theme-review-notice.php:118
+msgid "Sure, I'd love to!"
+msgstr ""
+
+#: inc/admin/class-elearning-theme-review-notice.php:123
+msgid "I already did!"
+msgstr ""
+
+#: inc/admin/class-elearning-theme-review-notice.php:128
+msgid "Maybe later"
+msgstr ""
+
+#: inc/admin/class-elearning-theme-review-notice.php:133
+msgid "I have a query"
+msgstr ""
+
+#: inc/admin/class-elearning-welcome-notice.php:30
+msgid "elearning"
+msgstr ""
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link ending html tag.
+#: inc/admin/class-elearning-welcome-notice.php:37
+msgid "Welcome! Thank you for choosing eLearning! To fully take advantage of the best our theme can offer, please make sure you visit our %1$swelcome page%2$s."
+msgstr ""
+
+#: inc/admin/class-elearning-welcome-notice.php:45
+msgid "Get started with eLearning"
+msgstr ""
+
+#: inc/admin/class-elearning-welcome-notice.php:47
+msgid "Clicking the button will install and activate the ThemeGrill Demo Importer plugin."
+msgstr ""
+
+#: inc/admin/class-elearning-welcome-notice.php:69
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:286
+msgid "Browse:"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:287
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:288
+msgid "Home"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:289
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:290
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: inc/class-breadcrumb-trail.php:292
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:294
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:296
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/class-breadcrumb-trail.php:298
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/class-breadcrumb-trail.php:300
+msgid "Week %s"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:717
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:733
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:749
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:764
+#: inc/class-breadcrumb-trail.php:791
+#: inc/class-breadcrumb-trail.php:828
+#: inc/class-breadcrumb-trail.php:853
+#: inc/class-breadcrumb-trail.php:1184
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:765
+#: inc/class-breadcrumb-trail.php:829
+#: inc/class-breadcrumb-trail.php:1186
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:766
+#: inc/class-breadcrumb-trail.php:1188
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:792
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/class-elearning-starter-content.php:67
+msgctxt "Theme starter content"
+msgid "Blog"
+msgstr ""
+
+#. translators: 1: Current Year, 2: Site Name, 3: Theme Link, 4: WordPress Link.
+#: inc/class-elearning-utils.php:156
+#: inc/customizer/options/footer-builder/copyright.php:14
+#: inc/customizer/options/footer/footer-bar.php:137
+#: inc/helper/utils.php:89
+#: inc/helper/utils.php:135
+msgid "Copyright &copy; %1$s %2$s. Powered by %3$s and %4$s."
+msgstr ""
+
+#: inc/class-elearning-utils.php:176
+#: inc/helper/utils.php:109
+#: inc/helper/utils.php:152
+msgid "WordPress"
+msgstr ""
+
+#: inc/class-elearning-utils.php:277
+#: inc/customizer/options/footer/footer-bar.php:127
+#: inc/customizer/options/footer/footer-bar.php:210
+#: inc/customizer/options/header/top-bar.php:90
+#: inc/customizer/options/header/top-bar.php:155
+#: inc/helper/utils.php:184
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:371
+msgid "None"
+msgstr ""
+
+#: inc/compatibility/quick-demo-import/class-elearning-quick-demo-import.php:61
+msgid "Education"
+msgstr ""
+
+#: inc/compatibility/quick-demo-import/class-elearning-quick-demo-import.php:62
+#: inc/customizer/options/content/blog-archive.php:50
+#: inc/customizer/panels-sections/panels-sections.php:139
+msgid "Blog"
+msgstr ""
+
+#: inc/compatibility/quick-demo-import/class-elearning-quick-demo-import.php:65
+msgid "Elementor"
+msgstr ""
+
+#: inc/compatibility/starter-content/account.php:10
+msgctxt "Theme starter content"
+msgid "Account"
+msgstr ""
+
+#: inc/compatibility/starter-content/courses.php:10
+msgctxt "Theme starter content"
+msgid "Courses"
+msgstr ""
+
+#: inc/compatibility/starter-content/theme-mods.php:79
+msgid "Get Masteriyo Now"
+msgstr ""
+
+#. translators: 1: Current Year, 2: Site Name, 3: Theme Link, 4: WordPress Link.
+#: inc/compatibility/starter-content/theme-mods.php:111
+msgid "Copyright &copy; %1$s %2$s  Masteriyo Default Demo. Powered by %3$s and %4$s."
+msgstr ""
+
+#: inc/compatibility/woocommerce/class-elearning-woocommerce.php:86
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/core/class-elearning-after-setup-theme.php:331
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:206
+#: inc/customizer/options/header-builder/header-builder.php:16
+#: inc/customizer/options/header-builder/primary-menu.php:11
+#: inc/customizer/options/header/primary-menu.php:8
+#: inc/customizer/panels-sections/panels-sections.php:89
+#: inc/customizer/panels-sections/panels-sections.php:194
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:92
+#: template-parts/header-builder-elements/toggle-button.php:32
+#: assets/build/meta.js:1
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/core/class-elearning-after-setup-theme.php:332
+#: inc/customizer/options/header-builder/header-builder.php:21
+#: inc/customizer/options/header-builder/secondary-menu.php:11
+#: inc/customizer/panels-sections/panels-sections.php:199
+msgid "Secondary Menu"
+msgstr ""
+
+#: inc/core/class-elearning-after-setup-theme.php:333
+#: inc/customizer/options/header-builder/header-builder.php:87
+#: inc/customizer/options/header-builder/mobile-menu.php:11
+#: inc/customizer/options/header/primary-menu.php:287
+#: inc/customizer/panels-sections/panels-sections.php:214
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/core/class-elearning-widgets.php:64
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/core/class-elearning-widgets.php:85
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:189
+#: assets/build/meta.js:1
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/core/class-elearning-widgets.php:86
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:190
+#: assets/build/meta.js:1
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/core/class-elearning-widgets.php:87
+msgid "Header Top Bar Left Sidebar"
+msgstr ""
+
+#: inc/core/class-elearning-widgets.php:88
+msgid "Header Top Bar Right Sidebar"
+msgstr ""
+
+#: inc/core/class-elearning-widgets.php:89
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:191
+#: assets/build/meta.js:1
+msgid "Footer One"
+msgstr ""
+
+#: inc/core/class-elearning-widgets.php:90
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:192
+#: assets/build/meta.js:1
+msgid "Footer Two"
+msgstr ""
+
+#: inc/core/class-elearning-widgets.php:91
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:193
+#: assets/build/meta.js:1
+msgid "Footer Three"
+msgstr ""
+
+#: inc/core/class-elearning-widgets.php:92
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:194
+#: assets/build/meta.js:1
+msgid "Footer Four"
+msgstr ""
+
+#: inc/core/class-elearning-widgets.php:93
+msgid "Footer Bottom Bar Left Sidebar"
+msgstr ""
+
+#: inc/core/class-elearning-widgets.php:94
+msgid "Footer Bottom Bar Right Sidebar"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:75
+#: inc/customizer/options/footer-builder/bottom-area.php:73
+#: inc/customizer/options/footer-builder/main-area.php:97
+#: inc/customizer/options/footer-builder/top-area.php:73
+#: inc/customizer/options/footer/footer-bar.php:64
+#: inc/customizer/options/footer/footer-widget.php:81
+#: inc/customizer/options/global/button.php:25
+#: inc/customizer/options/header-builder/bottom-area.php:61
+#: inc/customizer/options/header-builder/header-button.php:55
+#: inc/customizer/options/header-builder/main-area.php:61
+#: inc/customizer/options/header-builder/offset-area.php:14
+#: inc/customizer/options/header-builder/search.php:35
+#: inc/customizer/options/header-builder/top-area.php:64
+#: inc/customizer/options/header/header-button.php:69
+#: inc/customizer/options/header/main-header.php:63
+#: inc/customizer/options/header/top-bar.php:65
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:83
+#: inc/customizer/options/global/layouts.php:46
+#: inc/customizer/options/global/layouts.php:104
+#: inc/customizer/options/global/sidebar.php:38
+#: inc/customizer/options/header/page-header.php:32
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:121
+#: assets/build/meta.js:1
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:91
+#: inc/customizer/options/footer-builder/bottom-area.php:28
+#: inc/customizer/options/footer-builder/main-area.php:28
+#: inc/customizer/options/footer-builder/top-area.php:28
+#: inc/customizer/options/global/layouts.php:40
+#: inc/customizer/options/header-builder/bottom-area.php:16
+#: inc/customizer/options/header-builder/main-area.php:16
+#: inc/customizer/options/header-builder/top-area.php:18
+msgid "Container"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:100
+#: inc/customizer/options/content/blog-archive.php:106
+#: inc/customizer/options/content/single-page.php:93
+#: inc/customizer/options/content/single-post.php:96
+#: inc/customizer/panels-sections/panels-sections.php:184
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:109
+#: inc/customizer/options/content/blog-sidebar.php:54
+#: inc/customizer/options/content/blog-sidebar.php:114
+#: inc/customizer/options/footer-builder/copyright.php:100
+#: inc/customizer/options/footer-builder/footer-menu-2.php:80
+#: inc/customizer/options/footer-builder/footer-menu.php:80
+#: inc/customizer/options/global/button.php:81
+#: inc/customizer/options/header-builder/header-button.php:111
+#: inc/customizer/options/header-builder/logo.php:129
+#: inc/customizer/options/header-builder/logo.php:204
+#: inc/customizer/options/header-builder/mobile-menu.php:54
+#: inc/customizer/options/header-builder/primary-menu.php:182
+#: inc/customizer/options/header-builder/primary-menu.php:234
+#: inc/customizer/options/header-builder/quaternary-menu.php:94
+#: inc/customizer/options/header-builder/secondary-menu.php:129
+#: inc/customizer/options/header-builder/secondary-menu.php:180
+#: inc/customizer/options/header-builder/tertiary-menu.php:130
+#: inc/customizer/options/header-builder/tertiary-menu.php:181
+#: inc/customizer/options/header/primary-menu.php:216
+#: inc/customizer/options/header/primary-menu.php:270
+#: inc/customizer/options/header/primary-menu.php:329
+#: inc/customizer/options/header/site-identity.php:114
+#: inc/customizer/options/header/site-identity.php:189
+#: inc/customizer/panels-sections/panels-sections.php:44
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:117
+msgid "Base Typography"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:126
+msgid "Headings ( H1 - H6 )"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:135
+#: inc/customizer/options/content/blog-archive.php:287
+#: inc/customizer/options/header-builder/header-builder.php:92
+#: inc/customizer/panels-sections/panels-sections.php:59
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:143
+#: inc/customizer/panels-sections/panels-sections.php:9
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:87
+#: assets/build/meta.js:1
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:150
+#: inc/customizer/options/content/blog-archive.php:333
+#: inc/customizer/options/header-builder/logo.php:6
+#: inc/customizer/options/header/site-identity.php:8
+msgid "Site Identity"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:158
+#: inc/customizer/panels-sections/panels-sections.php:33
+msgid "Header Media"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:166
+msgid "Header Top Bar"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:174
+msgid "Header Main Area"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:182
+#: inc/customizer/panels-sections/panels-sections.php:99
+#: inc/customizer/panels-sections/panels-sections.php:234
+msgid "Header Button"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:190
+#: inc/customizer/panels-sections/panels-sections.php:114
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:198
+#: inc/customizer/options/footer/footer-bar.php:129
+#: inc/customizer/options/footer/footer-bar.php:212
+#: inc/customizer/options/header/top-bar.php:92
+#: inc/customizer/options/header/top-bar.php:157
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:215
+msgid "Primary Menu : Menu Item"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:224
+msgid "Primary Menu : Dropdown Item"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:233
+#: inc/customizer/options/header/page-header.php:5
+#: inc/customizer/options/header/page-header.php:16
+#: inc/customizer/options/header/page-header.php:89
+#: inc/customizer/panels-sections/panels-sections.php:104
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:97
+#: assets/build/meta.js:1
+msgid "Page Header"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:241
+#: inc/customizer/options/content/blog-archive.php:184
+#: inc/customizer/options/content/single-post.php:154
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:248
+msgid "Blog/Archive"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:256
+#: inc/customizer/options/global/sidebar.php:68
+#: inc/customizer/panels-sections/panels-sections.php:144
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:264
+#: inc/customizer/options/content/blog-archive.php:183
+#: inc/customizer/panels-sections/panels-sections.php:154
+msgid "Meta"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:272
+#: inc/customizer/options/global/layouts.php:95
+#: inc/customizer/panels-sections/panels-sections.php:64
+#: inc/customizer/panels-sections/panels-sections.php:159
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:182
+#: assets/build/meta.js:1
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:280
+#: inc/customizer/panels-sections/panels-sections.php:21
+#: inc/customizer/panels-sections/panels-sections.php:25
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:287
+#: inc/customizer/panels-sections/panels-sections.php:29
+msgid "Additional"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:295
+msgid "Optimization"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:302
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:310
+msgid "Footer Bottom Bar"
+msgstr ""
+
+#: inc/customizer/class-elearning-customizer-register-panels-sections.php:318
+#: inc/customizer/panels-sections/panels-sections.php:174
+msgid "Scroll to Top"
+msgstr ""
+
+#: inc/customizer/options/additional/breadcrumb.php:7
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/options/additional/breadcrumb.php:35
+msgid "Breadcrumbs Typography"
+msgstr ""
+
+#: inc/customizer/options/additional/breadcrumb.php:43
+#: inc/customizer/options/header-builder/search.php:21
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/options/additional/breadcrumb.php:53
+msgid "Separator Color"
+msgstr ""
+
+#: inc/customizer/options/additional/breadcrumb.php:64
+#: inc/customizer/options/footer-builder/main-area.php:65
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/options/additional/breadcrumb.php:71
+#: inc/customizer/options/additional/scroll-to-top.php:20
+#: inc/customizer/options/additional/scroll-to-top.php:45
+#: inc/customizer/options/footer-builder/copyright.php:50
+#: inc/customizer/options/footer-builder/footer-menu-2.php:31
+#: inc/customizer/options/footer-builder/footer-menu.php:31
+#: inc/customizer/options/footer-builder/html-1.php:35
+#: inc/customizer/options/footer-builder/html-2.php:35
+#: inc/customizer/options/footer-builder/main-area.php:73
+#: inc/customizer/options/footer-builder/widget-1.php:153
+#: inc/customizer/options/footer-builder/widget-2.php:153
+#: inc/customizer/options/footer-builder/widget-3.php:153
+#: inc/customizer/options/footer-builder/widget-4.php:153
+#: inc/customizer/options/footer-builder/widget-5.php:153
+#: inc/customizer/options/footer-builder/widget-6.php:153
+#: inc/customizer/options/footer/footer-bar.php:296
+#: inc/customizer/options/footer/footer-widget.php:182
+#: inc/customizer/options/global/button.php:12
+#: inc/customizer/options/global/button.php:32
+#: inc/customizer/options/global/colors.php:154
+#: inc/customizer/options/header-builder/header-button.php:40
+#: inc/customizer/options/header-builder/header-button.php:61
+#: inc/customizer/options/header-builder/html-1.php:35
+#: inc/customizer/options/header-builder/html-2.php:35
+#: inc/customizer/options/header-builder/logo.php:82
+#: inc/customizer/options/header-builder/primary-menu.php:119
+#: inc/customizer/options/header-builder/quaternary-menu.php:31
+#: inc/customizer/options/header-builder/secondary-menu.php:66
+#: inc/customizer/options/header-builder/tertiary-menu.php:67
+#: inc/customizer/options/header/header-button.php:56
+#: inc/customizer/options/header/header-button.php:75
+#: inc/customizer/options/header/primary-menu.php:153
+#: inc/customizer/options/header/site-identity.php:67
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer/options/additional/breadcrumb.php:78
+#: inc/customizer/options/additional/scroll-to-top.php:27
+#: inc/customizer/options/additional/scroll-to-top.php:52
+#: inc/customizer/options/footer-builder/copyright.php:57
+#: inc/customizer/options/footer-builder/footer-menu-2.php:38
+#: inc/customizer/options/footer-builder/footer-menu.php:38
+#: inc/customizer/options/footer-builder/html-1.php:42
+#: inc/customizer/options/footer-builder/html-2.php:42
+#: inc/customizer/options/footer-builder/main-area.php:80
+#: inc/customizer/options/footer/footer-bar.php:303
+#: inc/customizer/options/footer/footer-widget.php:189
+#: inc/customizer/options/global/button.php:18
+#: inc/customizer/options/global/button.php:38
+#: inc/customizer/options/global/colors.php:161
+#: inc/customizer/options/header-builder/header-button.php:47
+#: inc/customizer/options/header-builder/header-button.php:68
+#: inc/customizer/options/header-builder/html-1.php:42
+#: inc/customizer/options/header-builder/html-2.php:42
+#: inc/customizer/options/header-builder/primary-menu.php:126
+#: inc/customizer/options/header-builder/quaternary-menu.php:38
+#: inc/customizer/options/header-builder/secondary-menu.php:73
+#: inc/customizer/options/header-builder/tertiary-menu.php:74
+#: inc/customizer/options/header/header-button.php:62
+#: inc/customizer/options/header/header-button.php:81
+#: inc/customizer/options/header/primary-menu.php:160
+msgid "Hover"
+msgstr ""
+
+#: inc/customizer/options/additional/performance.php:6
+msgid "Load Google Font Locally"
+msgstr ""
+
+#: inc/customizer/options/additional/performance.php:12
+msgid "Demo Migrated"
+msgstr ""
+
+#: inc/customizer/options/additional/performance.php:19
+msgid "Demo migrated"
+msgstr ""
+
+#: inc/customizer/options/additional/scroll-to-top.php:5
+msgid "Enable Scroll to top"
+msgstr ""
+
+#: inc/customizer/options/additional/scroll-to-top.php:13
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/options/additional/scroll-to-top.php:38
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:53
+#: inc/customizer/options/footer/footer-bar.php:16
+#: inc/customizer/options/header/header-button.php:15
+#: inc/customizer/options/header/page-header.php:9
+#: inc/customizer/options/header/primary-menu.php:15
+#: inc/customizer/options/header/top-bar.php:15
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:82
+#: assets/build/meta.js:1
+msgid "General"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:54
+#: inc/customizer/options/content/blog-archive.php:305
+#: inc/customizer/options/content/blog-meta.php:14
+#: inc/customizer/options/footer/footer-bar.php:23
+#: inc/customizer/options/footer/footer-bar.php:50
+#: inc/customizer/options/footer/footer-widget.php:64
+#: inc/customizer/options/global/layouts.php:54
+#: inc/customizer/options/header/header-button.php:45
+#: inc/customizer/options/header/main-header.php:17
+#: inc/customizer/options/header/main-header.php:48
+#: inc/customizer/options/header/page-header.php:10
+#: inc/customizer/options/header/primary-menu.php:139
+#: inc/customizer/options/header/top-bar.php:37
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:278
+#: assets/build/meta.js:1
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:61
+#: inc/customizer/options/content/single-page.php:51
+#: inc/customizer/options/content/single-post.php:51
+msgid "Container Layout"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:148
+msgid "Post Date"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:162
+msgid "Published Date"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:163
+msgid "Modified Date"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:170
+#: inc/customizer/options/content/single-post.php:140
+msgid "Post Elements"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:172
+msgid "Manage the post elements such as Post Format, Category, Title, Meta, Content, etc."
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:181
+#: inc/customizer/options/content/single-post.php:151
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:182
+#: inc/customizer/options/content/single-post.php:152
+#: inc/customizer/options/footer/footer-widget.php:214
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:196
+#: inc/customizer/options/content/blog-meta.php:8
+#: inc/customizer/options/content/single-post.php:165
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:207
+#: inc/customizer/options/content/single-post.php:177
+msgid "Comments"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:208
+#: inc/customizer/options/content/single-post.php:178
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:209
+#: inc/customizer/options/content/single-post.php:179
+msgid "Author"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:210
+#: inc/customizer/options/content/single-post.php:180
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:211
+#: inc/customizer/options/content/single-post.php:181
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:259
+msgid "Post Title"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:269
+#: inc/customizer/options/content/blog-archive.php:280
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:281
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer/options/content/blog-archive.php:292
+#: inc/customizer/options/footer/footer-widget.php:14
+#: inc/customizer/options/header-builder/logo.php:66
+#: inc/customizer/options/header-builder/toggle-button.php:13
+#: inc/customizer/options/header/header-search.php:14
+#: inc/customizer/options/header/page-header.php:22
+#: inc/customizer/options/header/page-header.php:76
+#: inc/customizer/options/header/site-identity.php:51
+#: inc/customizer/options/header/top-bar.php:20
+#: inc/customizer/options/header/transparent-header.php:6
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:227
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/options/content/blog-sidebar.php:8
+msgid "Widget Title"
+msgstr ""
+
+#: inc/customizer/options/content/blog-sidebar.php:68
+msgid "Widget Content"
+msgstr ""
+
+#: inc/customizer/options/content/single-post.php:153
+msgid "Meta Tags"
+msgstr ""
+
+#: inc/customizer/options/content/single-post.php:167
+msgid "Manage the post meta elements such as Categories, Author, Date, Comments, Tags, etc."
+msgstr ""
+
+#: inc/customizer/options/footer-builder/bottom-area.php:5
+#: inc/customizer/options/header-builder/bottom-area.php:5
+#: inc/customizer/panels-sections/panels-sections.php:314
+#: inc/customizer/panels-sections/panels-sections.php:329
+msgid "Bottom Area"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/bottom-area.php:45
+#: inc/customizer/options/footer-builder/main-area.php:45
+#: inc/customizer/options/footer-builder/top-area.php:45
+#: inc/customizer/options/header-builder/bottom-area.php:33
+#: inc/customizer/options/header-builder/logo.php:42
+#: inc/customizer/options/header-builder/main-area.php:33
+#: inc/customizer/options/header-builder/top-area.php:35
+msgid "Height"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/bottom-area.php:57
+#: inc/customizer/options/footer-builder/copyright.php:34
+#: inc/customizer/options/footer-builder/html-1.php:19
+#: inc/customizer/options/footer-builder/html-2.php:19
+#: inc/customizer/options/footer-builder/main-area.php:57
+#: inc/customizer/options/footer-builder/top-area.php:57
+#: inc/customizer/options/footer/footer-bar.php:100
+#: inc/customizer/options/footer/footer-bar.php:270
+#: inc/customizer/options/footer/footer-bar.php:290
+#: inc/customizer/options/footer/footer-widget.php:129
+#: inc/customizer/options/footer/footer-widget.php:151
+#: inc/customizer/options/footer/footer-widget.php:176
+#: inc/customizer/options/footer/footer-widget.php:231
+#: inc/customizer/options/global/button.php:6
+#: inc/customizer/options/header-builder/bottom-area.php:45
+#: inc/customizer/options/header-builder/cart.php:15
+#: inc/customizer/options/header-builder/header-button.php:34
+#: inc/customizer/options/header-builder/html-1.php:19
+#: inc/customizer/options/header-builder/html-2.php:19
+#: inc/customizer/options/header-builder/logo.php:74
+#: inc/customizer/options/header-builder/logo.php:157
+#: inc/customizer/options/header-builder/main-area.php:45
+#: inc/customizer/options/header-builder/search.php:14
+#: inc/customizer/options/header-builder/top-area.php:47
+#: inc/customizer/options/header/header-button.php:50
+#: inc/customizer/options/header/main-header.php:80
+#: inc/customizer/options/header/primary-menu.php:73
+#: inc/customizer/options/header/site-identity.php:59
+#: inc/customizer/options/header/site-identity.php:142
+#: inc/customizer/options/header/top-bar.php:45
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/bottom-area.php:87
+#: inc/customizer/options/footer-builder/main-area.php:111
+#: inc/customizer/options/footer-builder/top-area.php:87
+#: inc/customizer/options/global/button.php:93
+#: inc/customizer/options/global/layouts.php:88
+#: inc/customizer/options/header-builder/bottom-area.php:75
+#: inc/customizer/options/header-builder/header-button.php:123
+#: inc/customizer/options/header-builder/main-area.php:75
+#: inc/customizer/options/header-builder/top-area.php:77
+#: inc/customizer/options/header/header-button.php:95
+msgid "Padding"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/bottom-area.php:103
+#: inc/customizer/options/footer-builder/main-area.php:127
+#: inc/customizer/options/footer-builder/top-area.php:103
+#: inc/customizer/options/header-builder/bottom-area.php:91
+#: inc/customizer/options/header-builder/main-area.php:91
+msgid "Margin"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/bottom-area.php:119
+#: inc/customizer/options/footer-builder/main-area.php:143
+#: inc/customizer/options/footer-builder/top-area.php:119
+#: inc/customizer/options/global/button.php:118
+#: inc/customizer/options/header-builder/bottom-area.php:107
+#: inc/customizer/options/header-builder/header-button.php:138
+#: inc/customizer/options/header-builder/main-area.php:107
+#: inc/customizer/options/header-builder/top-area.php:92
+msgid "Border Width"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/bottom-area.php:127
+#: inc/customizer/options/footer-builder/main-area.php:151
+#: inc/customizer/options/footer-builder/top-area.php:127
+#: inc/customizer/options/footer-builder/widget-1.php:145
+#: inc/customizer/options/footer-builder/widget-2.php:145
+#: inc/customizer/options/footer-builder/widget-3.php:145
+#: inc/customizer/options/footer-builder/widget-4.php:145
+#: inc/customizer/options/footer-builder/widget-5.php:145
+#: inc/customizer/options/footer-builder/widget-6.php:145
+#: inc/customizer/options/global/button.php:126
+#: inc/customizer/options/header-builder/bottom-area.php:115
+#: inc/customizer/options/header-builder/header-button.php:147
+#: inc/customizer/options/header-builder/main-area.php:114
+#: inc/customizer/options/header-builder/top-area.php:100
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/copyright.php:6
+#: inc/customizer/options/footer-builder/copyright.php:21
+#: inc/customizer/options/footer-builder/footer-builder.php:71
+#: inc/customizer/panels-sections/panels-sections.php:134
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/copyright.php:23
+#: inc/customizer/options/footer/footer-bar.php:146
+msgid "Docs Link"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/copyright.php:42
+#: inc/customizer/options/footer-builder/html-1.php:27
+#: inc/customizer/options/footer-builder/html-2.php:27
+#: inc/customizer/options/global/colors.php:146
+#: inc/customizer/options/header-builder/html-1.php:27
+#: inc/customizer/options/header-builder/html-2.php:27
+msgid "Links"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-builder.php:10
+#: inc/customizer/options/footer-builder/html-1.php:6
+#: inc/customizer/options/header-builder/header-builder.php:46
+#: inc/customizer/options/header-builder/header-builder.php:97
+#: inc/customizer/options/header-builder/html-1.php:6
+#: inc/customizer/panels-sections/panels-sections.php:244
+#: inc/customizer/panels-sections/panels-sections.php:334
+msgid "HTML 1"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-builder.php:15
+#: inc/customizer/options/footer-builder/html-2.php:6
+#: inc/customizer/options/header-builder/header-builder.php:51
+#: inc/customizer/options/header-builder/header-builder.php:102
+#: inc/customizer/options/header-builder/html-2.php:6
+#: inc/customizer/panels-sections/panels-sections.php:249
+#: inc/customizer/panels-sections/panels-sections.php:339
+msgid "HTML 2"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-builder.php:20
+#: inc/customizer/options/footer-builder/widget-1.php:6
+#: inc/customizer/options/header-builder/header-builder.php:56
+#: inc/customizer/options/header-builder/header-builder.php:107
+#: inc/customizer/options/header-builder/widget-1.php:6
+#: inc/customizer/panels-sections/panels-sections.php:254
+#: inc/customizer/panels-sections/panels-sections.php:264
+msgid "Widget 1"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-builder.php:26
+#: inc/customizer/options/footer-builder/widget-2.php:6
+#: inc/customizer/options/header-builder/header-builder.php:62
+#: inc/customizer/options/header-builder/header-builder.php:113
+#: inc/customizer/options/header-builder/widget-2.php:6
+#: inc/customizer/panels-sections/panels-sections.php:259
+#: inc/customizer/panels-sections/panels-sections.php:269
+msgid "Widget 2"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-builder.php:32
+#: inc/customizer/options/footer-builder/widget-3.php:6
+#: inc/customizer/panels-sections/panels-sections.php:274
+msgid "Widget 3"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-builder.php:38
+#: inc/customizer/options/footer-builder/widget-4.php:6
+#: inc/customizer/panels-sections/panels-sections.php:279
+msgid "Widget 4"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-builder.php:44
+#: inc/customizer/options/footer-builder/widget-5.php:6
+#: inc/customizer/panels-sections/panels-sections.php:284
+msgid "Widget 5"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-builder.php:50
+#: inc/customizer/options/footer-builder/widget-6.php:6
+#: inc/customizer/panels-sections/panels-sections.php:289
+msgid "Widget 6"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-builder.php:56
+#: inc/customizer/panels-sections/panels-sections.php:219
+msgid "Menu 1"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-builder.php:61
+#: inc/customizer/panels-sections/panels-sections.php:224
+msgid "Menu 2"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-builder.php:66
+#: inc/customizer/panels-sections/panels-sections.php:124
+#: inc/customizer/panels-sections/panels-sections.php:129
+msgid "Socials"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-menu-2.php:11
+#: inc/customizer/options/footer-builder/footer-menu.php:11
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/footer-menu-2.php:19
+#: inc/customizer/options/footer-builder/footer-menu.php:19
+#: inc/customizer/options/header-builder/quaternary-menu.php:19
+#: inc/customizer/options/header-builder/tertiary-menu.php:19
+msgid "Select a Menu"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/html-1.php:14
+#: inc/customizer/options/header-builder/html-1.php:14
+msgid "Text/HTML for HTML 1"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/html-1.php:50
+#: inc/customizer/options/footer-builder/html-2.php:50
+#: inc/customizer/options/header-builder/html-1.php:50
+#: inc/customizer/options/header-builder/html-2.php:50
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/html-2.php:14
+#: inc/customizer/options/header-builder/html-2.php:14
+msgid "Text/HTML for HTML 2"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/main-area.php:5
+#: inc/customizer/options/header-builder/main-area.php:5
+#: inc/customizer/panels-sections/panels-sections.php:309
+#: inc/customizer/panels-sections/panels-sections.php:324
+msgid "Main Area"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/main-area.php:163
+#: inc/customizer/options/footer/footer-bar.php:130
+#: inc/customizer/options/footer/footer-bar.php:213
+#: inc/customizer/options/footer/footer-widget.php:206
+#: inc/customizer/options/header/top-bar.php:93
+#: inc/customizer/options/header/top-bar.php:158
+msgid "Widget"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/main-area.php:168
+#: inc/customizer/options/footer-builder/widget-1.php:14
+#: inc/customizer/options/footer-builder/widget-2.php:14
+#: inc/customizer/options/footer-builder/widget-3.php:14
+#: inc/customizer/options/footer-builder/widget-4.php:14
+#: inc/customizer/options/footer-builder/widget-5.php:14
+#: inc/customizer/options/footer-builder/widget-6.php:14
+#: inc/customizer/options/header-builder/widget-1.php:14
+#: inc/customizer/options/header-builder/widget-2.php:14
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/main-area.php:180
+msgid "Widget Item List"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/main-area.php:190
+#: inc/customizer/options/footer-builder/widget-1.php:133
+#: inc/customizer/options/footer-builder/widget-2.php:133
+#: inc/customizer/options/footer-builder/widget-3.php:133
+#: inc/customizer/options/footer-builder/widget-4.php:133
+#: inc/customizer/options/footer-builder/widget-5.php:133
+#: inc/customizer/options/footer-builder/widget-6.php:133
+#: inc/customizer/options/footer/footer-widget.php:264
+#: inc/customizer/options/header-builder/primary-menu.php:48
+#: inc/customizer/options/header-builder/secondary-menu.php:29
+#: inc/customizer/options/header-builder/tertiary-menu.php:30
+msgid "Border Bottom Width"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/main-area.php:197
+#: inc/customizer/options/footer/footer-widget.php:280
+#: inc/customizer/options/header-builder/primary-menu.php:60
+#: inc/customizer/options/header-builder/secondary-menu.php:41
+#: inc/customizer/options/header-builder/tertiary-menu.php:42
+msgid "Border Bottom Color"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/socials.php:6
+#: inc/customizer/options/footer-builder/socials.php:13
+#: inc/customizer/options/header-builder/header-builder.php:68
+#: inc/customizer/options/header-builder/socials.php:6
+#: inc/customizer/options/header-builder/socials.php:13
+msgid "Social"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/top-area.php:5
+#: inc/customizer/options/header-builder/top-area.php:7
+#: inc/customizer/panels-sections/panels-sections.php:304
+#: inc/customizer/panels-sections/panels-sections.php:319
+msgid "Top Area"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/widget-1.php:55
+#: inc/customizer/options/footer-builder/widget-2.php:55
+#: inc/customizer/options/footer-builder/widget-3.php:55
+#: inc/customizer/options/footer-builder/widget-4.php:55
+#: inc/customizer/options/footer-builder/widget-5.php:55
+#: inc/customizer/options/footer-builder/widget-6.php:55
+#: inc/customizer/options/header-builder/widget-1.php:55
+#: inc/customizer/options/header-builder/widget-2.php:55
+msgid "Title Typography"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/widget-1.php:66
+#: inc/customizer/options/footer-builder/widget-2.php:66
+#: inc/customizer/options/footer-builder/widget-3.php:66
+#: inc/customizer/options/footer-builder/widget-4.php:66
+#: inc/customizer/options/footer-builder/widget-5.php:66
+#: inc/customizer/options/footer-builder/widget-6.php:66
+#: inc/customizer/options/footer/footer-bar.php:282
+#: inc/customizer/options/footer/footer-widget.php:169
+#: inc/customizer/options/header-builder/header-button.php:19
+#: inc/customizer/options/header-builder/widget-1.php:66
+#: inc/customizer/options/header-builder/widget-2.php:66
+#: inc/customizer/options/header/header-button.php:26
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/widget-1.php:78
+#: inc/customizer/options/footer-builder/widget-2.php:78
+#: inc/customizer/options/footer-builder/widget-3.php:78
+#: inc/customizer/options/footer-builder/widget-4.php:78
+#: inc/customizer/options/footer-builder/widget-5.php:78
+#: inc/customizer/options/footer-builder/widget-6.php:78
+#: inc/customizer/options/header-builder/widget-1.php:78
+#: inc/customizer/options/header-builder/widget-2.php:78
+msgid "Content Color"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/widget-1.php:119
+#: inc/customizer/options/footer-builder/widget-2.php:119
+#: inc/customizer/options/footer-builder/widget-3.php:119
+#: inc/customizer/options/footer-builder/widget-4.php:119
+#: inc/customizer/options/footer-builder/widget-5.php:119
+#: inc/customizer/options/footer-builder/widget-6.php:119
+#: inc/customizer/options/header-builder/widget-1.php:119
+#: inc/customizer/options/header-builder/widget-2.php:119
+msgid "Content Typography"
+msgstr ""
+
+#: inc/customizer/options/footer-builder/widget-1.php:159
+#: inc/customizer/options/footer-builder/widget-2.php:159
+#: inc/customizer/options/footer-builder/widget-3.php:159
+#: inc/customizer/options/footer-builder/widget-4.php:159
+#: inc/customizer/options/footer-builder/widget-5.php:159
+#: inc/customizer/options/footer-builder/widget-6.php:159
+msgid "Accent"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:8
+#: inc/customizer/panels-sections/panels-sections.php:169
+msgid "Footer Bar"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:77
+#: inc/customizer/options/footer/footer-widget.php:99
+msgid "Border Top"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:87
+#: inc/customizer/options/global/layouts.php:118
+#: inc/customizer/options/header/primary-menu.php:57
+msgid "Width"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:113
+#: inc/customizer/options/header/top-bar.php:79
+msgid "Left Content"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:122
+#: inc/customizer/options/footer/footer-bar.php:205
+#: inc/customizer/options/header/top-bar.php:87
+#: inc/customizer/options/header/top-bar.php:152
+msgid "Content Type"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:128
+#: inc/customizer/options/footer/footer-bar.php:211
+#: inc/customizer/options/header/top-bar.php:91
+#: inc/customizer/options/header/top-bar.php:156
+msgid "Text/HTML"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:144
+#: inc/customizer/options/header/top-bar.php:103
+msgid "Text/HTML for Left Content"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:170
+#: inc/customizer/options/header/top-bar.php:114
+msgid "Select a Menu for Left Content"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:181
+#: inc/customizer/options/header/top-bar.php:124
+msgid "Left Widget Navigation"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:196
+#: inc/customizer/options/header/top-bar.php:144
+msgid "Right Content"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:220
+#: inc/customizer/options/header/top-bar.php:168
+msgid "Text/HTML for Right Content"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:237
+#: inc/customizer/options/header/top-bar.php:179
+msgid "Select a Menu for Right Content"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:248
+#: inc/customizer/options/header/top-bar.php:189
+msgid "Right Widget Navigation"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-bar.php:263
+msgid "Footer Content"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-widget.php:8
+#: inc/customizer/panels-sections/panels-sections.php:164
+msgid "Footer Column"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-widget.php:23
+#: inc/customizer/options/header-builder/primary-menu.php:80
+msgid "Advanced Style"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-widget.php:113
+msgid "Size"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-widget.php:145
+#: inc/customizer/options/header-builder/header-button.php:13
+#: inc/customizer/options/header/header-button.php:20
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-widget.php:221
+msgid "Hide Widget Title"
+msgstr ""
+
+#: inc/customizer/options/footer/footer-widget.php:252
+msgid "Widget List Item"
+msgstr ""
+
+#: inc/customizer/options/global/button.php:106
+#: inc/customizer/options/global/colors.php:131
+#: inc/customizer/options/header/header-button.php:108
+msgid "Border"
+msgstr ""
+
+#: inc/customizer/options/global/button.php:130
+#: inc/customizer/options/header/header-button.php:118
+msgid "Radius"
+msgstr ""
+
+#: inc/customizer/options/global/colors.php:25
+msgid "Color Palette"
+msgstr ""
+
+#: inc/customizer/options/global/colors.php:30
+msgid "Color palette"
+msgstr ""
+
+#: inc/customizer/options/global/colors.php:114
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/customizer/options/global/colors.php:118
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/options/global/colors.php:124
+msgid "Base"
+msgstr ""
+
+#: inc/customizer/options/global/colors.php:138
+msgid "Heading Color ( H1 - H6 )"
+msgstr ""
+
+#: inc/customizer/options/global/colors.php:178
+msgid "Inside Background"
+msgstr ""
+
+#: inc/customizer/options/global/colors.php:192
+msgid "Outside Background"
+msgstr ""
+
+#: inc/customizer/options/global/layouts.php:57
+msgid "Wide"
+msgstr ""
+
+#: inc/customizer/options/global/layouts.php:58
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/options/global/layouts.php:59
+msgid "Separate"
+msgstr ""
+
+#: inc/customizer/options/global/layouts.php:68
+msgid "Container Width"
+msgstr ""
+
+#: inc/customizer/options/global/sidebar.php:46
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:188
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:223
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:370
+#: assets/build/meta.js:1
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/options/global/sidebar.php:57
+msgid "Archive"
+msgstr ""
+
+#: inc/customizer/options/global/sidebar.php:79
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/options/global/typography.php:525
+msgid "Presets"
+msgstr ""
+
+#: inc/customizer/options/global/typography.php:534
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer/options/global/typography.php:574
+msgid "Body"
+msgstr ""
+
+#: inc/customizer/options/global/typography.php:602
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer/options/global/typography.php:659
+msgid "H1"
+msgstr ""
+
+#: inc/customizer/options/global/typography.php:703
+msgid "H2"
+msgstr ""
+
+#: inc/customizer/options/global/typography.php:746
+msgid "H3"
+msgstr ""
+
+#: inc/customizer/options/global/typography.php:790
+msgid "H4"
+msgstr ""
+
+#: inc/customizer/options/global/typography.php:834
+msgid "H5"
+msgstr ""
+
+#: inc/customizer/options/global/typography.php:878
+msgid "H6"
+msgstr ""
+
+#: inc/customizer/options/header-builder/cart.php:6
+#: inc/customizer/options/header-builder/header-builder.php:73
+#: inc/customizer/options/header-builder/header-builder.php:124
+#: inc/customizer/panels-sections/panels-sections.php:294
+msgid "Cart"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:11
+msgid "Site Title & Logo"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:26
+#: inc/customizer/options/header-builder/tertiary-menu.php:11
+#: inc/customizer/panels-sections/panels-sections.php:204
+msgid "Tertiary Menu"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:31
+#: inc/customizer/options/header-builder/quaternary-menu.php:11
+#: inc/customizer/panels-sections/panels-sections.php:209
+msgid "Quaternary Menu"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:36
+#: inc/customizer/options/header-builder/header-button.php:6
+#: inc/customizer/options/header/header-button.php:8
+msgid "Button 1"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:41
+#: inc/customizer/options/header-builder/search.php:6
+#: inc/customizer/options/header/header-search.php:8
+#: inc/customizer/panels-sections/panels-sections.php:239
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:82
+#: inc/customizer/options/header-builder/logo.php:20
+#: inc/customizer/options/header/site-identity.php:22
+#: inc/customizer/panels-sections/panels-sections.php:189
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:246
+#: assets/build/meta.js:1
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:119
+#: inc/customizer/panels-sections/panels-sections.php:299
+msgid "Toggle Button"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:198
+msgid "Builder area top"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:203
+msgid "Builder area top left"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:208
+msgid "Builder area top middle"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:213
+msgid "Builder area top right"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:220
+msgid "Builder Main area"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:225
+msgid "Builder area middle left"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:230
+msgid "Main center"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:235
+msgid "Main right"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:242
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:247
+msgid "Bottom left"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:252
+msgid "Bottom center"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:257
+msgid "Bottom right"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-builder.php:265
+#: inc/customizer/options/header-builder/offset-area.php:6
+#: inc/customizer/panels-sections/panels-sections.php:229
+msgid "Offset Area"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-button.php:23
+#: inc/customizer/options/header/header-button.php:30
+msgid "https://example.com"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-button.php:28
+#: inc/customizer/options/header/header-button.php:35
+msgid "Open link in a new tab"
+msgstr ""
+
+#: inc/customizer/options/header-builder/header-button.php:157
+msgid "Border Radius"
+msgstr ""
+
+#: inc/customizer/options/header-builder/html-1.php:12
+#: inc/customizer/options/header-builder/html-2.php:12
+#: template-parts/header-builder-elements/html-1.php:2
+#: template-parts/header-builder-elements/html-2.php:2
+msgid "Insert Text Here"
+msgstr ""
+
+#: inc/customizer/options/header-builder/logo.php:12
+#: inc/customizer/options/header/site-identity.php:14
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer/options/header-builder/logo.php:31
+#: inc/customizer/options/header/site-identity.php:33
+msgid "Retina Logo"
+msgstr ""
+
+#: inc/customizer/options/header-builder/logo.php:33
+#: inc/customizer/options/header/site-identity.php:35
+msgid "Upload 2X times the size of your current logo. Eg: If your current logo size is 120*60 then upload 240*120 sized logo."
+msgstr ""
+
+#: inc/customizer/options/header-builder/logo.php:59
+#: inc/customizer/options/header/site-identity.php:44
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer/options/header-builder/logo.php:143
+#: inc/customizer/options/header/site-identity.php:128
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer/options/header-builder/main-area.php:131
+msgid "Global Border Width"
+msgstr ""
+
+#: inc/customizer/options/header-builder/primary-menu.php:18
+#: inc/customizer/options/header-builder/secondary-menu.php:17
+msgid "Select Menu Navigation"
+msgstr ""
+
+#: inc/customizer/options/header-builder/primary-menu.php:26
+#: inc/customizer/options/header/primary-menu.php:25
+msgid "Priority plus navigation"
+msgstr ""
+
+#: inc/customizer/options/header-builder/primary-menu.php:39
+#: inc/customizer/options/header/main-header.php:74
+#: inc/customizer/options/header/primary-menu.php:44
+msgid "Border Bottom"
+msgstr ""
+
+#: inc/customizer/options/header-builder/primary-menu.php:72
+#: inc/customizer/options/header-builder/secondary-menu.php:53
+#: inc/customizer/options/header-builder/tertiary-menu.php:54
+#: inc/customizer/options/header/primary-menu.php:88
+msgid "Main Menu"
+msgstr ""
+
+#: inc/customizer/options/header-builder/primary-menu.php:133
+#: inc/customizer/options/header-builder/quaternary-menu.php:45
+#: inc/customizer/options/header-builder/secondary-menu.php:80
+#: inc/customizer/options/header-builder/tertiary-menu.php:81
+#: inc/customizer/options/header/primary-menu.php:167
+msgid "Active"
+msgstr ""
+
+#: inc/customizer/options/header-builder/primary-menu.php:193
+#: inc/customizer/options/header-builder/secondary-menu.php:139
+#: inc/customizer/options/header-builder/tertiary-menu.php:140
+#: inc/customizer/options/header/primary-menu.php:229
+msgid "Sub Menu"
+msgstr ""
+
+#: inc/customizer/options/header-builder/toggle-button.php:6
+msgid "Load Google fonts locally"
+msgstr ""
+
+#: inc/customizer/options/header/main-header.php:8
+#: inc/customizer/panels-sections/panels-sections.php:84
+msgid "Main Header"
+msgstr ""
+
+#: inc/customizer/options/header/main-header.php:92
+msgid "Components"
+msgstr ""
+
+#: inc/customizer/options/header/main-header.php:99
+msgid "Header Search Navigation"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:67
+msgid "Page Title"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:84
+msgid "Position"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:90
+msgid "Content Area"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:99
+msgid "Markup"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:104
+msgid "Heading 1"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:105
+msgid "Heading 2"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:106
+msgid "Heading 3"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:107
+msgid "Heading 4"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:108
+msgid "Heading 5"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:109
+msgid "Heading 6"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:110
+msgid "Span"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:111
+msgid "Paragraph"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:112
+msgid "Div"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:120
+msgid "Page Title Color"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:141
+msgid "Page title Background"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:159
+msgid "Page Title Padding"
+msgstr ""
+
+#: inc/customizer/options/header/page-header.php:210
+msgid "Page Title Typography"
+msgstr ""
+
+#: inc/customizer/options/header/primary-menu.php:19
+msgid "Disable Primary Menu"
+msgstr ""
+
+#: inc/customizer/options/header/primary-menu.php:96
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:366
+#: assets/build/meta.js:1
+msgid "Active Menu Item Style"
+msgstr ""
+
+#: inc/customizer/options/header/top-bar.php:7
+#: inc/customizer/panels-sections/panels-sections.php:69
+msgid "Top Bar"
+msgstr ""
+
+#: inc/customizer/options/header/transparent-header.php:13
+msgid "Conditions"
+msgstr ""
+
+#: inc/customizer/options/header/transparent-header.php:22
+msgid "Front Page (Latest Posts)"
+msgstr ""
+
+#: inc/customizer/options/header/transparent-header.php:31
+msgid "404 Page"
+msgstr ""
+
+#: inc/customizer/override-defaults.php:102
+msgid "Header Video URL"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:5
+msgid "Global"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:13
+msgid "Page Element"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:17
+msgid "Post Content"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:39
+msgid "Builder"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:49
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:54
+msgid "Layouts"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:74
+msgid "Header Builder"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:79
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:94
+msgid "Header Search"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:109
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:119
+msgid "Global Header"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:149
+msgid "Single Page"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:179
+msgid "Performance"
+msgstr ""
+
+#: inc/customizer/panels-sections/panels-sections.php:345
+msgid "Leave a Review on .org"
+msgstr ""
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:172
+msgid "Remove content margin"
+msgstr ""
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:218
+#: assets/build/meta.js:1
+msgid "Enable Transparent Header"
+msgstr ""
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:231
+msgid "Disable"
+msgstr ""
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:263
+msgid "Remove Logo"
+msgstr ""
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:334
+#: assets/build/meta.js:1
+msgid "Menu Item Color"
+msgstr ""
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:346
+#: assets/build/meta.js:1
+msgid "Menu Item Hover Color"
+msgstr ""
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:356
+#: assets/build/meta.js:1
+msgid "Menu Item Active Color"
+msgstr ""
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:379
+msgid "Underline Border"
+msgstr ""
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:387
+msgid "Left Border"
+msgstr ""
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:395
+msgid "Right Border"
+msgstr ""
+
+#: inc/meta-boxes/class-elearning-meta-box-page-settings.php:415
+#: assets/build/meta.js:1
+msgid "Enable Page Header"
+msgstr ""
+
+#: inc/meta-boxes/class-elearning-meta-box.php:210
+msgid "Page Settings"
+msgstr ""
+
+#: inc/structure/footer.php:35
+msgid "Scroll to top"
+msgstr ""
+
+#. translators: %s: author.
+#: inc/template-functions.php:195
+msgid "Author: %s"
+msgstr ""
+
+#. translators: %s: day
+#: inc/template-functions.php:209
+msgid "Day: %s"
+msgstr ""
+
+#. translators: %s: month
+#: inc/template-functions.php:213
+msgid "Month: %s"
+msgstr ""
+
+#. translators: %s: year.
+#: inc/template-functions.php:217
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-functions.php:224
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/template-functions.php:226
+msgid "Search Results"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:23
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:55
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:75
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:80
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:102
+msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:127
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:132
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr ""
+
+#: sidebar.php:30
+msgid "Click here to add widgets for this area"
+msgstr ""
+
+#: template-parts/content/content-404.php:19
+msgid "Oops! Page Not Found"
+msgstr ""
+
+#: template-parts/content/content-404.php:24
+msgid "We’re sorry, the page you requested could not be found. Please go back to the homepage"
+msgstr ""
+
+#: template-parts/content/content-404.php:30
+msgid "Go Back"
+msgstr ""
+
+#: template-parts/content/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content/content-none.php:41
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content/content-none.php:48
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-page.php:29
+#: template-parts/entry/entry-meta.php:58
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/entry/entry-content.php:32
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/entry/entry-content.php:48
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/entry/entry-footer.php:18
+msgid "Read More"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "Customizer"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "Contained Sidebar"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "Stretched  Sidebar"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "Left Sidebar"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "Right Sidebar"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "Remove content padding"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "From Customizer"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "Header Left"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "Header Center"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "Header Right"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "Replace"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "Remove"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "Set featured image"
+msgstr ""
+
+#: assets/build/meta.js:1
+msgid "eLearning Page Settings"
+msgstr ""

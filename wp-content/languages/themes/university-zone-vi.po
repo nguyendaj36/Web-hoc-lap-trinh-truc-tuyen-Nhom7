@@ -1,0 +1,257 @@
+# Translation of Themes - University Zone in Vietnamese
+# This file is distributed under the same license as the Themes - University Zone package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-16 07:03:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - University Zone\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "University Zone"
+msgstr "University Zone"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "University Zone is a child theme of Education Zone free WordPress theme. This theme features an elegant, attractive and mobile-friendly design to help you create an appealing website for educational institutions like schools, college, university, LMS, Training Center, Academy, Primary School, High school and Kindergarten. You can create a fully responsive professional website using this theme without writing a single line of code or any technical experience. It is an easy to use theme and comes with multiple features and customization options to help you design your dream website. The theme is SEO friendly along with Schema.org  mark up ready to help your website rank at the top of search engine results. Also, it is performance optimized which will give your website visitors a smooth browsing experience while visiting your website. Designed with visitor engagement in mind, University Zone helps you to easily and intuitively create professional and appealing websites. If your school, college or university needs an online home that is dynamic and multi-functional, this theme is an excellent option to start. Check the demo at https://rarathemes.com/previews/?theme=university-zone, documentation at https://docs.rarathemes.com/docs/university-zone/, and get support at https://rarathemes.com/support-ticket/."
+msgstr "University Zone là một giao diện con của giao diện Education Zone miễn phí trên WordPress. Giao diện này có tính năng trang nhã, thu hút và thiết kế phù hợp với các trình duyệt trên thiết bị di động nhằm giúp bạn tạo được một website hấp dẫn cho các tổ chức giáo dục như:các trường cao đẳng, trường đại học, hệ thống quản lý học liệu trực tuyến (LMS), trung tâm đào tạo, học viện, trường tiểu học, trung học và trường mẫu giáo. Bạn có thể tạo một website đáp ứng chuyên nghiệp bằng giao diện này mà không cần phải viết bất kỳ một đoạn mã nào hay bất kỳ kinh nghiệm kỹ thuật nào. Đây là một giao diện sử dụng dễ dàng và có nhiều tính năng cũng như các tuỳ chọn cá nhân để giúp bạn thiết kế website như mơ ước. Giao diện này là giao diện có SEO thân thiện cùng với các chỉ mục Schema.org sẵ́n sàng để giúp bạn lên hạng top đầu trong kết quả tìm kiếm của các công cụ tìm kiếm. Ngoài ra, hiệu năng của giao diện đã được tối ưu hóa sẽ giúp người dùng có một trải nghiệm mượt mà khi ghé thăm website của bạn. Được thiết kế với mục tiêu tạo thiện cảm với khách ghé thăm, University Zone giúp bạn tạo một cách dễ dàng và trực quan các website chuyên nghiệp và hấp dẫn. Nếu trường học, trường cao đẳng, đại học của bạn cần một ngôi nhà trực tuyến năng động và đa chức năng thì giao diện này là một lựa chọn tuyệt vời để cho bạn bắt đầu. Xem bản demo tại https://rarathemes.com/previews/?theme=university-zone, tài liệu hướng dẫn tại https://docs.rarathemes.com/docs/university-zone/ và nhận trợ giúp tại https://rarathemes.com/support-ticket/."
+
+#: inc/parent-functions.php:60
+msgid "Phone Number"
+msgstr "Số điện thoại"
+
+#: inc/parent-functions.php:65
+msgid "E-Mail"
+msgstr "Thư điện tử"
+
+#: header.php:25
+msgid "Skip to content (Press Enter)"
+msgstr "Bỏ qua và tới nội dung (ấn Enter)"
+
+#: functions.php:46
+msgid "Default Header Image"
+msgstr "Ảnh mặc định trên cùng"
+
+#: footer.php:55
+msgid "https://wordpress.org/"
+msgstr "https://vi.wordpress.org/"
+
+#: footer.php:47
+msgid "Y"
+msgstr "Y"
+
+#: sections/section-blog.php:13 sections/section-courses.php:51
+#: sections/section-slider.php:12 sections/section-welcome.php:33
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: inc/child-functions.php:89
+msgid "Header Settings"
+msgstr "Cài đặt Header "
+
+#: sections/section-blog.php:57
+msgid "g:i A"
+msgstr "g:i A"
+
+#: sections/section-blog.php:56 sections/section-blog.php:108
+msgid "j M, Y"
+msgstr "j M, Y"
+
+#: sections/section-choose.php:43
+msgid "Learn More"
+msgstr "Xem thêm"
+
+#: inc/parent-functions.php:215
+msgid "OK"
+msgstr "Ok"
+
+#: inc/parent-functions.php:213
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/parent-functions.php:211
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/parent-functions.php:209
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/parent-functions.php:207
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/parent-functions.php:205
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/parent-functions.php:203
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/child-functions.php:397
+msgid " -- Choose -- "
+msgstr " -- Lựa chọn -- "
+
+#: footer.php:55
+msgid "Powered by %s."
+msgstr "Cung cấp bởi %s."
+
+#: inc/parent-functions.php:242 inc/parent-functions.php:244
+#: inc/parent-functions.php:246 inc/parent-functions.php:248
+#: inc/parent-functions.php:250
+msgid "Click here"
+msgstr "Bấm vào đây"
+
+#: inc/parent-functions.php:242
+msgid "Theme Documentation"
+msgstr "Tài liệu Theme"
+
+#: inc/parent-functions.php:217
+msgid "VK"
+msgstr "VK"
+
+#: footer.php:51
+msgid "University Zone | Developed By"
+msgstr "University Zone | Được phát triển bởi"
+
+#: footer.php:47
+msgid "Copyright &copy;"
+msgstr "Bản quyền &copy;"
+
+#: inc/parent-functions.php:253
+msgid "About University Zone"
+msgstr "Thông tin về University Zone"
+
+#: inc/parent-functions.php:250
+msgid "More WordPress Themes"
+msgstr "Thêm Giao diện WordPress"
+
+#: inc/parent-functions.php:248
+msgid "Support Ticket"
+msgstr "Vé Hỗ trợ"
+
+#: inc/parent-functions.php:246
+msgid "Theme info"
+msgstr "Thông tin giao diện"
+
+#: inc/parent-functions.php:244
+msgid "Theme Demo"
+msgstr "Demo Giao diện"
+
+#: inc/parent-functions.php:219
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/parent-functions.php:231
+msgid "Demo and Documentation"
+msgstr "Demo và Tài liệu hướng dẫn"
+
+#: inc/child-functions.php:351
+msgid "Featured Course Post Six"
+msgstr "Khóa học Đặc sắc Post Six"
+
+#: inc/child-functions.php:335
+msgid "Featured Course Post Five"
+msgstr "Khóa học Đặc sắc Post Five"
+
+#: inc/child-functions.php:314
+msgid "Link Url"
+msgstr "Liên kết Url"
+
+#: inc/child-functions.php:296
+msgid "Link Label"
+msgstr "Nhãn Liên kết"
+
+#: inc/child-functions.php:277
+msgid "Banner Title"
+msgstr "Tiêu đề Banner"
+
+#: inc/child-functions.php:251
+msgid "Post Banner"
+msgstr "Banner Bài đăng"
+
+#: inc/child-functions.php:250
+msgid "Static/Video CTA Banner"
+msgstr "Banner Tĩnh/Video CTA"
+
+#: inc/child-functions.php:249
+msgid "Disable Banner Section"
+msgstr "Vô hiệu hóa Mục Banner"
+
+#: inc/child-functions.php:246
+msgid "Choose banner as static image/video."
+msgstr "Chọn Banner dưới dạng hình ảnh/video tĩnh."
+
+#: inc/child-functions.php:245
+msgid "Banner Options"
+msgstr "Tuỳ chọn Banner"
+
+#: inc/child-functions.php:218
+msgid "Banner Section"
+msgstr "Mục Banner"
+
+#: inc/child-functions.php:203
+msgid "Enable Search Form"
+msgstr "Bật Form Tìm kiếm"
+
+#: inc/child-functions.php:187
+msgid "%s You can edit the Header Search Settings from here"
+msgstr "%s Bạn có thể chỉnh sửa Tuỳ chọn Header Tìm kiếm từ đây"
+
+#: inc/child-functions.php:166
+msgid "Open In New Tab"
+msgstr "Mở trong Tab mới"
+
+#: inc/child-functions.php:149
+msgid "CTA URL"
+msgstr "CTA URL"
+
+#: inc/child-functions.php:132
+msgid "CTA Label"
+msgstr "Nhãn CTA"
+
+#: inc/child-functions.php:108
+msgid "%s You can edit the Button with below settings."
+msgstr "%s Bạn có thể chỉnh sửa Nút bấm với các tuỳ chọn ở dưới."
+
+#: inc/child-functions.php:117 inc/child-functions.php:286
+#: inc/child-functions.php:415 inc/parent-functions.php:13
+#: inc/parent-functions.php:105 sections/section-info.php:44
+#: sections/section-slider.php:8
+msgid "Apply Now"
+msgstr "Đăng ký Ngay"
+
+#: inc/child-functions.php:262 inc/child-functions.php:419
+#: sections/section-slider.php:7
+msgid "Better Education for a Better World"
+msgstr "Một Nền giáo dục tốt hơn cho Một Thế giới tốt hơn"
+
+#: functions.php:134
+msgid "Gallery Image"
+msgstr "Bộ sưu tập Ảnh"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: style.css footer.php:53
+#, gp-priority: low
+msgid "Rara Theme"
+msgstr "Bộ giao diện Rara"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://rarathemes.com/wordpress-themes/university-zone/"
+msgstr "https://rarathemes.com/wordpress-themes/university-zone/"
